@@ -1,3 +1,3 @@
-function slillsMember() {
-  console.log('I am a member of skills')
+function skillsMember()){
+    console.log('I am a member of skills')
 }
